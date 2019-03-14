@@ -1,5 +1,5 @@
-//2 개 array 의 frequency 를 비교한다.
-//예, [1, 2, 3, 2], [1, 4, 9, 4]
+//Frequncy Counter pattern
+//2 개 array 의 frequency 를 비교한다. 예, [1, 2, 3, 2], [1, 4, 9, 4]
 //첫번째 array 와 두번째 array 의 length 는 same
 // 두번째 array 의 element 는 첫번째 array element 의 제곱이어야 한다.
 // 서로 match 되는 element 의 frequency 가 같은지 비교

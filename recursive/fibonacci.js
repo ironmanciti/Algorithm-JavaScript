@@ -8,7 +8,7 @@ function fib(n){
   }
 }
 
-console.log(fib(45));
+console.log(fib(35));
 
 //Dynamic Programming
 //Memoization memoization version
